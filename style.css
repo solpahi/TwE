@@ -131,7 +131,7 @@ table:not(.sentences) td, table:not(.sentences) th {
 .sentences td {
   width: 50%;
   vertical-align: top;
-  padding: 0 2em 0 4em;
+  padding: 0 0.5em 0 2em;
 }
 
 
@@ -142,7 +142,7 @@ table:not(.sentences) td, table:not(.sentences) th {
   display: block;
   height: 0px;
   overflow: visible;
-  left: -1.5em;
+  right: 2.25em;
 }
 
 .sentences tr {
