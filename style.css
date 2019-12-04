@@ -131,7 +131,7 @@ table:not(.sentences) td, table:not(.sentences) th {
 .sentences td {
   width: 50%;
   vertical-align: top;
-  padding: 0 0.5em 0 2em;
+  padding: 0 0 0 4em;
 }
 
 
