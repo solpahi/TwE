@@ -18,7 +18,7 @@ title: 'Cíkō chỉetōaı'
 | **Hu mámā, kíao bı rỉa máq da!**                              | Mother, the door, it's open! |
 | **Ỏ! Mả bủı kúnē moq? Jỏaı múy ba.**     [⑧](#fn-8)           | Oh! Is the dog outside? Let us go looking. |
 
-![](uglydrawing.png)
+![](../lessons/06/uglydrawing.png)
 
 ## Notes
 
