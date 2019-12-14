@@ -8,7 +8,7 @@ title: 'Néıkō chỉetōaı'
 {: .sentences}
 | **Kaqgai ba. {mo} ní moq?** [①](#fn-1)     | Look! What is that? |
 | **Kảqjūa ní da. [②](#fn-2)** | That is strange-looking. |
-| **Miu jí pôq ní da. Keo dủa bũ jí tâo ní hı rảı da.** [③](#fn-3) | I think that is a person. |
+| **Miu jí pôq ní da. Keo dủa bũ jí tâo ní hı rảı da.** [③](#fn-3) | I think that is a person. But I don't know what it is doing. |
 | **Kỏy múy ní ba.**  | Let us talk to it. |
 | **Hỉo ka.** [④](#fn-4) | Hello. |
 | **Hỉo ka.** | Hello. |
