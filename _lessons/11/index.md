@@ -6,19 +6,19 @@ title: 'Héıshīkō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| **Kỏa da.** | |
-| **Dủ bîa súq da. Tỉshūe súq núofūa ba.** [①](#fn-1) **Jỉa bâi jí baq chảı ba.** [②](#fn-2) | |
-| **Kủaq kỉe ka.** ||
-| **[voila]. Lỏq chái da. Pỉe ba.** ||
-| **Jảq lôq da.** | |
-| **Mả nỏqgī moq? Pủ tûa jí nîe baq mảtū chái da.** [③](#fn-3) ||
-| **Gỉ da.** ||
-| **Mả shảo súq bâı jí baq tủzȳ moq?** ||
-| **Chủqkūaı bũ jí da...** [④](#fn-4) **Jảq lôi jí baq kỏacāo da. Shảo jí cêo lóqcāo da.** [⑤](#fn-5) ||
-| **Lảo súq rôe súq ba. Jỉa bâi múy baq nỉaopōq ba.** [⑥](#fn-6)[⑦](#fn-7) ||
-| **Gỉ sío da.** ||
-| **Tu cảo bı pảq sa gỉ cáo da. Nảı sêa súq ba.** [⑧](#fn-8) |
-| **Kủaq kỉe ka. Jảq pâı súq da.** ||
+| **Kỏa da.** | It's cold. |
+| **Dủ bîa súq da. Tỉshūe súq núofūa ba.** [①](#fn-1) **Jỉa bâi jí baq chảı ba.** [②](#fn-2) | It seems like you are sick. You should stay in bed. |
+| **Kủaq kỉe ka.** | Thank you. |
+| **[voila]. Lỏq chái da. Pỉe ba.** | Here. The tea is hot. Drink. |
+| **Jảq lôq da.** | It is very hot. |
+| **Mả nỏqgī moq? Pủ tûa jí nîe baq mảtū chái da.** [③](#fn-3) | Is it delicious? I put honey in the tea. |
+| **Gỉ da.** | It's good. |
+| **Mả shảo súq bâı jí baq tủzȳ moq?** | Do you want me to make soup? |
+| **Chủqkūaı bũ jí da...** [④](#fn-4) **Jảq lôi jí baq kỏacāo da. Shảo jí cêo lóqcāo da.** [⑤](#fn-5) | I'm not hungry... I really hate winter. I want the summer to begin. |
+| **Lảo súq rôe súq ba. Jỉa bâi múy baq nỉaopōq ba.** [⑥](#fn-6)[⑦](#fn-7) | Wait until you are well. We will build a snow figure. |
+| **Gỉ sío da.** | That is a good idea. |
+| **Tu cảo bı pảq sa gỉ cáo da. Nảı sêa súq ba.** [⑧](#fn-8) | Every season has good parts. Now rest. |
+| **Kủaq kỉe ka. Jảq pâı súq da.** | Thank you. You are a very good friend. |
 
 ## Notes
 
