@@ -26,15 +26,15 @@ title: 'Héıshīkō chỉetōaı'
 
 2. <a name="fn-2" /> **Jıa** "to be the case in the future" is the verb that expresses the future tense. **Jỉa fâ jí** "It is the case that I will go", or simply "I will go". **baq chảı** "tea in general", as opposed to any particular instance of tea, is used in **Bảı jí baq chảı** "I make tea" because the (finished) tea does not exist prior to making it.  
 
-3. <a name="fn-3" /> **Pu** "to be the case in the future", is the verb that expresses the past tense. **Pủ fâ jí** "I went".
+3. <a name="fn-3" /> **Pu** "to be the case in the past", is the verb that expresses the past tense. **Pủ fâ jí** "I went".
 
 4. <a name="fn-4" /> The compound **chuqkūaı** has the familiar component **chuq** "to eat", and the component **kuaı** "to long or hunger for", which also appeared in the word **seakūai** "to be exhausted" ("to need rest") in lesson 4. Additional examples would be **pıekūaı** "to be thirsty" and **nuokūaı** "to be tired".
 
-5. <a name="fn-5" /> baq koacao ,  koacao loqcao components
+5. <a name="fn-5" /> **baq kỏacāo** "winter, in general". The words for summer and winter are **loqcāo**, from **loq** "to be hot" + **cao** "to be a season", and **koacao**, from **koa** "to be cold" + **cao** "to be a season" respectively.
 
-6. <a name="fn-6" /> niaopoq components
+6. <a name="fn-6" /> **nıaopōq** "to be a snow figure", from **nıao** "to be snow" and **poq** "to be a person".
 
-7. <a name="fn-7" /> nai
+7. <a name="fn-7" /> **Naı** "to be the case now" is the verb that expresses the present tense. **Nảı fâ jí** "I go (now)".
 
 ## Exercises
 
