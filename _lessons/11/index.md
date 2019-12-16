@@ -7,36 +7,34 @@ title: 'Héıshīkō chỉetōaı'
 
 {: .sentences}
 | **Kỏa da.** | It's cold. |
-| **Dủ bîa súq da. Tỉshūe súq núofūa ba.** [①](#fn-1) **Jỉa bâi jí baq chảı ba.** [②](#fn-2) | It seems like you are sick. You should stay in bed. |
+| **Dủ bîa súq da. Tỉshūe súq núofūa ba.** [①](#fn-1) **Jỉa bâi jí baq chảı ba.** [②](#fn-2) | It seems like you are sick. You should stay in bed. I will make tea.  |
 | **Kủaq kỉe ka.** | Thank you. |
 | **[voila]. Lỏq chái da. Pỉe ba.** | Here. The tea is hot. Drink. |
 | **Jảq lôq da.** | It is very hot. |
 | **Mả nỏqgī moq? Pủ tûa jí nîe baq mảtū chái da.** [③](#fn-3) | Is it delicious? I put honey in the tea. |
 | **Gỉ da.** | It's good. |
 | **Mả shảo súq bâı jí baq tủzȳ moq?** | Do you want me to make soup? |
-| **Chủqkūaı bũ jí da...** [④](#fn-4) **Jảq lôi jí baq kỏacāo da. Shảo jí cêo lóqcāo da.** [⑤](#fn-5) | I'm not hungry... I really hate winter. I want the summer to begin. |
-| **Lảo súq rôe súq ba. Jỉa bâi múy baq nỉaopōq ba.** [⑥](#fn-6)[⑦](#fn-7) | Wait until you are well. We will build a snow figure. |
+| **Chủqkūaı bũ jí da...** [④](#fn-4) **Jảq lôi jí baq kỏacāo da. [⑤](#fn-5) Shảo jí cêo lóqcāo da.**  | I'm not hungry... I really hate winter. I want the summer to begin. |
+| **Lảo súq rôe súq ba. Jỉa bâi múy baq nỉaopōq ba.** [⑥](#fn-6) | Wait until you are well. We will build a snow figure. |
 | **Gỉ sío da.** | That is a good idea. |
-| **Tu cảo bı pảq sa gỉ cáo da. Nảı sêa súq ba.** [⑧](#fn-8) | Every season has good parts. Now rest. |
+| **Tu cảo bı pảq sa gỉ cáo da. Nảı sêa súq ba.** [⑦](#fn-7) | Every season has good parts. Now rest. |
 | **Kủaq kỉe ka. Jảq pâı súq da.** | Thank you. You are a very good friend. |
 
 ## Notes
 
-1. <a name="fn-1" /> nuofua components
+1. <a name="fn-1" /> **nuofua** "to be a bed" has the familiar component **nuo** "to be asleep", and **fua** "to be a piece of furniture".
 
-2. <a name="fn-2" /> baq
+2. <a name="fn-2" /> **Jıa** "to be the case in the future" is the verb that expresses the future tense. **Jỉa fâ jí** "It is the case that I will go", or simply "I will go". **baq chảı** "tea in general", as opposed to any particular instance of tea, is used in **Bảı jí baq chảı** "I make tea" because the (finished) tea does not exist prior to making it.  
 
-3. <a name="fn-3" /> pu
+3. <a name="fn-3" /> **Pu** "to be the case in the future", is the verb that expresses the past tense. **Pủ fâ jí** "I went".
 
-4. <a name="fn-4" /> chuqkuai components, related to earlier seakuai
+4. <a name="fn-4" /> The compound **chuqkūaı** has the familiar component **chuq** "to eat", and the component **kuaı** "to long or hunger for", which also appeared in the word **seakūai** "to be exhausted" ("to need rest") in lesson 4. Additional examples would be **pıekūaı** "to be thirsty" and **nuokūaı** "to be tired".
 
-5. <a name="fn-5" /> koacao loqcao components
+5. <a name="fn-5" /> baq koacao ,  koacao loqcao components
 
-6. <a name="fn-6" /> jia
+6. <a name="fn-6" /> niaopoq components
 
-7. <a name="fn-7" /> niaopoq components
-
-8. <a name="fn-8" /> nai
+7. <a name="fn-7" /> nai
 
 ## Exercises
 
