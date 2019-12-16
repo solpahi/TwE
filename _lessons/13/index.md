@@ -21,17 +21,17 @@ title: 'Héısāqkō chỉetōaı'
 
 ## Notes
 
-1. <a name="fn-1" /> chufāq
+1. <a name="fn-1" /> **chufāq** expresses that a given thing is ongoing, in the middle of taking place. In English, this is usually expressed by the *-ing* form of a verb: **Chủfāq fâ jí** "I am going". Note that the ongoing action can be in the past, present, or future: **Pủ chûfāq fâ jí** "I was going", **Jỉa chûfāq fâ jí** "I will be going".
 
-2. <a name="fn-2" /> kaqsī huosī
+2. <a name="fn-2" /> **sı** means "to be attentive (to something)". Combined with **kaq** "visual", and **huo** "auditory", we get **kaqsī** "to watch something", and **huosī** "to listen to something".
 
-3. <a name="fn-3" /> tıo
+3. <a name="fn-3" /> **tîo** "to what extent", is a family member of **mâ** "whether" and it follows the same pattern. **Dẻ ríaq** "the place is beautiful", **tîo dẻ ríaq** "to what extent the place is beautiful", or "how beautiful the place is". Like **mâ**, it also has a falling tone ![](../tones/t4.png) counterpart: **Tỉo sảo jío moq?** "How big is the building?".
 
-4. <a name="fn-4" /> puchaq jıachaq, pastday, futureday
+4. <a name="fn-4" /> **puchāq** "yesterday" and **jıachāq** "tomorrow" both use familiar components, so they should be easy to remember.
 
-5. <a name="fn-5" /> chıjīo components
+5. <a name="fn-5" /> **chıjīo** "to be a church" is another easy-to-remember compound. **chı** "to believe", **jıo** "to be a building" — a building for believers.
 
-6. <a name="fn-6" /> jıajōa futureweek
+6. <a name="fn-6" /> **jıajōa** "next week", from **jıa** "future" and **joa** "week". This word parallels **jıachāq**.
 
 ## Exercises
 
