@@ -75,7 +75,7 @@ Five of the vowel letters look the same as in English, except for **ı**, which 
 | s  | <audio controls src="../sounds/s.mp3" />  |
 | sh | <audio controls src="../sounds/sh.mp3" /> |
 | t  | <audio controls src="../sounds/t.mp3" />  |
-| z  | <audio controls src="../sounds/z.mp3" />  |
+| z  | <audio controls src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg" />  |
 
 The consonant **q** is usually pronounced as English "ng", but it can change its pronunciation depending on the consonant that follows:
 
